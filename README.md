@@ -38,3 +38,6 @@ El flujo de ejecución del Job se compone de las siguientes tareas:
 > 💡 **Tip de Arquitectura:** Al utilizar la orquestación nativa de Databricks, se garantiza el aislamiento de fallos: si la validación de calidad de datos en la capa Silver detecta una anomalía, el flujo se detiene inmediatamente, evitando la corrupción de métricas analíticas en la capa Gold.
 
 ---<img width="1173" height="596" alt="image" src="https://github.com/user-attachments/assets/f3b6d781-d89b-481b-8069-28b53b6d764f" />
+
+<img width="1237" height="573" alt="image" src="https://github.com/user-attachments/assets/a7802c23-83ed-4ddb-9c0b-024e3a687cf8" />
+
